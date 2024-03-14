@@ -1,3 +1,19 @@
+# Getting Started with Update W4H-tutorial 
+
+This is a react web application to guide user how to use W4H. For latest version of the tutorial, visit:https://w4h-tutorial.vercel.app/
+
+This application generate html by markdown files. Modify markdown files in /public/markdown to update the tutorial page
+
+## How to deploy in server provider (example of Vercel)
+
+Build Command: npm run build
+
+Outpit Directory: build
+
+Install Command: npm install
+
+Development Command: react-scripts start
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

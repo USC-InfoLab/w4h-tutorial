@@ -1,0 +1,9 @@
+database_number: 1
+
+database1:
+  nickname: 'my db'
+  dbms: 'postgres'
+  host: '1.2.3.4'
+  port: 5432
+  user: 'username'
+  password: 'password'
